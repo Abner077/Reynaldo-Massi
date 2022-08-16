@@ -1,0 +1,37 @@
+body {
+	background: #CCCCCC
+}
+
+#foto {
+	width: 95%;
+	border: black;
+}
+
+#diamante {
+	width: 100%;
+}
+
+ h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center; font-size: 55px;
+}
+
+
+#Distrito {
+	font-size: 30px
+}
+
+strong {
+	color: rgb(24,101,169);
+}
+
+.itens {
+	font-style: italic;
+}
+
+.nosso_colégio {
+	background: #FFFFFF;
+}
